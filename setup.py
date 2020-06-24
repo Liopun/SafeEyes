@@ -24,7 +24,7 @@ def _data_files(path):
 setuptools.setup(
     name="safeeyes",
     version="1.2.0a10",
-    description="Protect your eyes from eye strain using this continuous breaks reminder.",
+    description="Protect your eye from eye strain using this continuous breaks reminder.",
     long_description=long_description,
     author="Gobinath Loganathan",
     author_email="slgobinath@gmail.com",
